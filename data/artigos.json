@@ -1,0 +1,23 @@
+[
+  {
+    "titulo": "Introdução ao App Router",
+    "autor": "Dayvid",
+    "data": "2026-11-01",
+    "resumo": "Entenda como funcionam as rotas baseadas em pastas no Next.js.",
+    "conteudo": "O App Router usa a estrutura de pastas para definir as rotas..."
+  },
+  {
+    "titulo": "Server Components na Prática",
+    "autor": "Dayvid",
+    "data": "2026-11-10",
+    "resumo": "Buscando dados no servidor sem useEffect.",
+    "conteudo": "Server Components rodam apenas no servidor e podem ser async..."
+  },
+  {
+    "titulo": "SSG vs SSR no Next.js",
+    "autor": "Dayvid",
+    "data": "2026-11-18",
+    "resumo": "Quando usar renderização estática e quando usar dinâmica.",
+    "conteudo": "Com generateStaticParams as páginas são geradas no build..."
+  }
+]
